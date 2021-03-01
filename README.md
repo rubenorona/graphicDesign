@@ -8,3 +8,6 @@ Pequeno recopilatorio de traballos de arquitectura e deseños gráficos de disti
 2. [Vivenda para un deportista en Combarro](./arquitectura/vivendaCombarro.pdf)
 3. [Breve análise urbanística da zona antiga de Betanzos](./arquitectura/urbaBetanzos.pdf)
 4. [Rehabilitación co Cortijo del Fraile (Almería)](./arquitectura/construcionCortijo.pdf)
+
+![logo](/designs/logoGaliPrint3D.jpg)
+![wallpaper](/designs/centersWallpaper.jpg)
