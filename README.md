@@ -9,5 +9,8 @@ Pequeno recopilatorio de traballos de arquitectura e deseños gráficos de disti
 3. [Breve análise urbanística da zona antiga de Betanzos](./arquitectura/urbaBetanzos.pdf)
 4. [Rehabilitación co Cortijo del Fraile (Almería)](./arquitectura/construcionCortijo.pdf)
 
-![logo](/designs/logoGaliPrint3D.jpg)
 ![wallpaper](/designs/centersWallpaper.jpg)
+
+Logo deseñado para a empresa de impresión 3D GaliPrint3D
+![logo](/designs/logoGaliPrint3D.jpg)
+
